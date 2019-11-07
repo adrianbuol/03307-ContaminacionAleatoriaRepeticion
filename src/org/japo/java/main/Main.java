@@ -20,7 +20,7 @@ import java.util.Random;
 
 /**
  *
- * @author Adrian Bueno Olmedo <adrian.bueno.alum@iescamp.es>
+ * @author Adrian Bueno Olmedo - adrian.bueno.alum@iescamp.es
  */
 public class Main {
 
